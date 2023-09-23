@@ -82,7 +82,7 @@ This project is intended solely for research and educational purposes and should
 ## Screenshots
 
 ![Termux Screenshot 1](images/termux-screenshot-1.jpg)
-![Termux Screenshot 2](images/termux-screenshot-1.jpg)
+![Termux Screenshot 2](images/termux-screenshot-2.jpg)
 
 ![Server Screenshot](images/server-screenshot.jpg)
 
