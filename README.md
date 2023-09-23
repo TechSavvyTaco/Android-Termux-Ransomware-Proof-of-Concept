@@ -57,6 +57,7 @@ git clone https://github.com/TechSavvyTaco/Android-Termux-Ransomware-Proof-of-Co
 Run the following command:
 
 ```bash
+cd Android-Termux-Ransomware-Proof-of-Concept
 python server.py
 ```
 
