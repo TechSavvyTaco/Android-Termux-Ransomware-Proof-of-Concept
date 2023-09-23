@@ -84,5 +84,7 @@ This project is intended solely for research and educational purposes and should
 ![Termux Screenshot 1](images/termux-screenshot-1.jpg)
 ![Termux Screenshot 2](images/termux-screenshot-1.jpg)
 
+![Server Screenshot](images/server-screenshot.jpg)
+
 ![Storage Screenshot 1](images/storage-screenshot-1.jpg)
 ![Storage Screenshot 2](images/storage-screenshot-2.jpg)
