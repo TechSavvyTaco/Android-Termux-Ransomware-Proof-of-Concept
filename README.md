@@ -28,9 +28,11 @@ This code operates as follows:
 Please adhere to ethical and legal guidelines when experimenting with this code, as it can have serious consequences if used for malicious or unlawful purposes.
 
 **Step 1: Install Termux**
-Install Termux on your Android device from the Google Play Store.
+
+Install Termux on your Android device from the [Google Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=en_US).
 
 **Step 2: Open Termux**
+
 Launch the Termux app on your Android device and run the following commands:
 
 ```bash
@@ -42,6 +44,7 @@ pip install pycryptodome
 ```
 
 **Step 3: Install Git**
+
 Install Git, which will allow you to clone repositories from GitHub:
 
 ```bash
@@ -50,6 +53,7 @@ git clone https://github.com/TechSavvyTaco/Android-Termux-Ransomware-Proof-of-Co
 ```
 
 **Step 4: Configure the Server**
+
 Run the following command:
 
 ```bash
@@ -57,6 +61,7 @@ python server.py
 ```
 
 **Step 5: Execute the Script**
+
 Create another session and run the script:
 
 ```bash
@@ -65,6 +70,7 @@ python ransomware.py
 ```
 
 **Step 6: Access the Key**
+
 To obtain the key, navigate to the initial session where "server.py" is currently active, and copy your key.
 
 
