@@ -1,17 +1,16 @@
 ## Ransomware Proof of Concept
 
-This repository houses an educational ransomware proof of concept designed for research and educational purposes. This project provides insights into how ransomware operates using Termux application only.
+This repository houses an educational ransomware proof of concept designed for research and educational purposes. This project provides insights into how ransomware operates using [Termux](https://en.wikipedia.org/wiki/Termux) application only.
 
-### Features
+## Features
 
-
-1. **AES Encryption**: The script uses the AES-256 algorithm to encrypt files.
+1. **AES Encryption**: The script uses [AES-256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) algorithm to encrypt files.
 
 2. **File Deletion**: Empty and original files are removed during encryption.
 
 3. **File Processing**: It processes files in specified directories, encrypting or decrypting them.
 
-### How It Works
+## How It Works
 This code operates as follows:
 
 
@@ -78,7 +77,7 @@ python ransomware.py
 To obtain the key, navigate to the initial session where "server.py" is currently active, and copy your key.
 
 
-## Please Remember
+## Remember
 
 This project is intended solely for research and educational purposes and should not be used for any illegal or malicious activities. Please exercise caution to avoid accidental data loss during testing. Be sure to maintain proper backups of your important data.
 
