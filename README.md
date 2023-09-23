@@ -19,9 +19,11 @@ This code operates as follows:
 
 2. **Server Configuration**: Connects to a server, configuring the IP and port settings within the script to obtain the decryption key.
 
-3. **Effective File Management**: Scans specified directories like "Download" and "Pictures" to precisely identify files for encryption or decryption processes.
+3. **Thumbnail Folder Removal**: Automatically deletes the thumbnail folder and its contents to prevent accidentally encrypting large files.
 
-4. **File Recovery**: After encryption, presents a ransom message. To recover files, you'll need to provide the correct decryption key.
+4. **Effective File Management**: Scans specified directories like "Download" and "Pictures" to precisely identify files for encryption or decryption processes.
+
+5. **File Recovery**: After encryption, presents a ransom message. To recover files, you'll need to provide the correct decryption key.
 
 
 ## Setting Up Ransomware
