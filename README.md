@@ -25,7 +25,8 @@ This code operates as follows:
 
 
 ## Setting Up Ransomware
-Please adhere to ethical and legal guidelines when experimenting with this code, as it can have serious consequences if used for malicious or unlawful purposes.
+NOTE: Please adhere to ethical and legal guidelines when experimenting with this code, as it can have serious consequences if used for malicious or unlawful purposes.
+
 
 **Step 1: Install Termux**
 
