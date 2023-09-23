@@ -78,3 +78,11 @@ To obtain the key, navigate to the initial session where "server.py" is currentl
 ## Please Remember
 
 This project is intended solely for research and educational purposes and should not be used for any illegal or malicious activities. Please exercise caution to avoid accidental data loss during testing. Be sure to maintain proper backups of your important data.
+
+## Screenshots
+
+![Termux Screenshot 1](images/termux-screenshot-1.jpg)
+![Termux Screenshot 2](images/termux-screenshot-1.jpg)
+
+![Storage Screenshot 1](images/storage-screenshot-1.jpg)
+![Storage Screenshot 2](images/storage-screenshot-2.jpg)
