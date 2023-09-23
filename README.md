@@ -46,7 +46,7 @@ Install Git, which will allow you to clone repositories from GitHub:
 
 ```bash
 pkg install git
-git clone <repository_url>
+git clone https://github.com/TechSavvyTaco/Android-Termux-Ransomware-Proof-of-Concept/
 ```
 
 **Step 4: Configure the Server**
@@ -60,7 +60,7 @@ python server.py
 Create another session and run the script:
 
 ```bash
-cd <repository_directory>
+cd Android-Termux-Ransomware-Proof-of-Concept
 python ransomware.py
 ```
 
